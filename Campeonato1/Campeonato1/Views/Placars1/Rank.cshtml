@@ -1,0 +1,47 @@
+﻿@model IEnumerable< Campeonato1.Models.Placar>
+
+@{
+    ViewData["Title"] = "Rank";
+}
+
+<h1>Ranking</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.jogador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.data)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.jogador.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.total)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.data)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PlacarId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.PlacarId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PlacarId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
