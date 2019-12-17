@@ -151,3 +151,4 @@ C:\Users\GILBERTO\source\repos\Campeonato1\Campeonato1\obj\Debug\netcoreapp3.0\R
 C:\Users\GILBERTO\source\repos\Campeonato1\Campeonato1\obj\Debug\netcoreapp3.0\Razor\Views\Placars1\Index.cshtml.g.cs
 C:\Users\GILBERTO\source\repos\Campeonato1\Campeonato1\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\GILBERTO\source\repos\Campeonato1\Campeonato1\obj\Debug\netcoreapp3.0\Razor\Views\Placars1\Rank.cshtml.g.cs
+C:\Users\GILBERTO\source\repos\Campeonato1\Campeonato1\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
