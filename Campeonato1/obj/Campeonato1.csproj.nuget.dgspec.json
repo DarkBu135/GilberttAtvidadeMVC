@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GILBERTO\\source\\repos\\Campeonato1\\Campeonato1\\Campeonato1.csproj": {}
+    "C:\\Users\\GILBERTO\\source\\repos\\yago trab\\Campeonato1\\Campeonato1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GILBERTO\\source\\repos\\Campeonato1\\Campeonato1\\Campeonato1.csproj": {
+    "C:\\Users\\GILBERTO\\source\\repos\\yago trab\\Campeonato1\\Campeonato1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GILBERTO\\source\\repos\\Campeonato1\\Campeonato1\\Campeonato1.csproj",
+        "projectUniqueName": "C:\\Users\\GILBERTO\\source\\repos\\yago trab\\Campeonato1\\Campeonato1.csproj",
         "projectName": "Campeonato1",
-        "projectPath": "C:\\Users\\GILBERTO\\source\\repos\\Campeonato1\\Campeonato1\\Campeonato1.csproj",
+        "projectPath": "C:\\Users\\GILBERTO\\source\\repos\\yago trab\\Campeonato1\\Campeonato1.csproj",
         "packagesPath": "C:\\Users\\GILBERTO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GILBERTO\\source\\repos\\Campeonato1\\Campeonato1\\obj\\",
+        "outputPath": "C:\\Users\\GILBERTO\\source\\repos\\yago trab\\Campeonato1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
